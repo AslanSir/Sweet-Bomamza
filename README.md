@@ -1,2 +1,1 @@
-# Sweet-Bomamza
-Sweet Bomamza Resmi Paylaşım Merkezi
+# Sweet Bomamza Resmi Galaksilerarası Paylaşım Merkezi İstasyonu Planlı Sistemi
